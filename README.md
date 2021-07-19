@@ -14,3 +14,6 @@ Bonus:
 - Checke ob kleine/große Buchstaben enthalten sind
 - Schaffe die Möglichkeit, eine Liste von Passwörtern zu validieren
 - Schaue dir auf GitHub Labs weitere Einsteigervideos an
+
+## Team
+Alexander, Felix, Drazen, Linda
